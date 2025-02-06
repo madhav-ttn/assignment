@@ -59,7 +59,7 @@ main > img {
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
-    overflow-y: auto;
+    overflow-x: auto;
 }
 li{
     list-style: none;
